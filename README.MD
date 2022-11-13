@@ -4,7 +4,7 @@
 Bharath Kumar Reddy
 
 ## Live Project Link
-[https://paytmUIClone-tailwind.netlify.app/](https://paytmUIClone-tailwind.netlify.app/)
+[https://UIClone-tailwind.netlify.app/](https://UIClone-tailwind.netlify.app/)
 
 ## Time taken to complete the project
 18 Hours
